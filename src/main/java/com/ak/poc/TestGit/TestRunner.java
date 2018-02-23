@@ -22,4 +22,7 @@ void xyz() {
 void testRebaseMaster() {
 	
 }
+void testBranch() {
+	
+}
 }

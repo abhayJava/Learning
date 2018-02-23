@@ -11,4 +11,11 @@ void test() {
 void testMaster() {
 	
 }
+void test1() {
+	
+}
+
+void xyz() {
+	
+}
 }

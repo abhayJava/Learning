@@ -7,4 +7,8 @@ public static void main(String[] args) {
 
 void test() {
 }
+
+void testMaster() {
+	
+}
 }
